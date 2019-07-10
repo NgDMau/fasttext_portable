@@ -1,6 +1,8 @@
 __Quick guide__:  
 1. Install fasttext:  
 ```bash
+cd fasttext_portable
+git clone https://github.com/facebookresearch/fastText.git
 cd fastText
 sudo python setup.py install
 ```  
